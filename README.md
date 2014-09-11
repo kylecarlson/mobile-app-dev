@@ -1,4 +1,4 @@
 mobile-app-dev
 ==============
 
-Testing repository
+Public repository for development in the Mobile Application Development course.
